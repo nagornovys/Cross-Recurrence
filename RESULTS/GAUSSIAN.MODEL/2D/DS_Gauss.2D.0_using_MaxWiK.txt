@@ -1,0 +1,2 @@
+"method"	"task"	"n_simulations"	"time_of_calculation"	"comment"	"par.sim.X1"	"par.sim.X2"
+"MaxWiK"	"abc"	0	6.912	"metasampling"	243.067374322336	678.912899973689

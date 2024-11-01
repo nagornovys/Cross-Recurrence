@@ -1,0 +1,22 @@
+# Description of the data
+
+dimension: 2
+
+folder: 'Gaussian.Model/2D'
+
+names: [ 'Gauss.2D.0', 'Gauss.2D.0.1', 'Gauss.2D.0.2', 'Gauss.2D.0.5', 'Gauss.2D.1.0', 'Gauss.2D.2.0', 'Gauss.2D.5.0' ]
+
+files: [ 'input.data.noise.0.txt', 'input.data.noise.0.1.txt', 'input.data.noise.0.2.txt', 'input.data.noise.0.5.txt', 'input.data.noise.1.txt', 'input.data.noise.2.txt', 'input.data.noise.5.txt' ]
+
+Size: 2000
+
+description: '2D data with different level of the noise factor: 10%, 20%, 50%, 100%, 200%, and 500%'
+
+noise: [ 0, 0.1, 0.2, 0.5, 1.0, 2.0, 5.0 ]
+
+Comment: 'Gaussian model'
+
+Feature: 'Lack of data at the region of interest'
+
+Field: 'Math'
+

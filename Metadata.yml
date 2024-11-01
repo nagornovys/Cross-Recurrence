@@ -1,0 +1,58 @@
+# Method definition
+method: 
+- MaxWiK
+
+hyperparameters: 
+- default
+
+# MaxWiK.for.DS_Gauss.2D.0.yml
+
+# Input data definition
+input.ID:
+- DS_Gauss.2D.0
+
+input.file:
+- default
+
+input.folder:
+- GAUSSIAN.MODEL/2D
+
+# Problems statement
+task: 'abc'
+
+# Reproducibility
+seed:
+- .NAN
+
+# Adjusting:
+adjust.hyper: FALSE
+
+# Delete results of simulation after run?
+delete.method.data:
+- FALSE
+
+# NameSpace to keep the objects for ANY method
+NameSpace:
+- add.data.set.from.yml.description
+- add.default
+- check.and.source
+- dscrpt.datasets
+- hyper
+- hyper.default
+- hyper.all
+- input.ID.in.the.loop
+- load.hyperparameters
+- metadata
+- par.sim
+- stat.sim
+- X.true
+- Y.true
+- yaml.check.and.load_file
+- method.for.all.simulations
+
+
+
+
+
+
+
