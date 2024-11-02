@@ -19,7 +19,7 @@ There are files and folders:
 
 - Metadaata.yml is a file with the metadata of the simulation,
 
-- RUN.Metadata.R is a script to run a method using mtadata,
+- RUN.Metadata.R is a script to run a method using metadata,
 
 - crqa_2D_example.R is a script to calculate cross-recurrence plots and CRQA for 2D example,
 
